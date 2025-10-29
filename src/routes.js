@@ -1,4 +1,5 @@
 import Home from "./pages/Home";
+import App from "./App";
 import About from "./pages/About";
 import Login from "./pages/Login";
 import UserProfile from "./pages/UserProfile";
